@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91a86ecd-2bc6-4973-a0b7-5d310b325f5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ass7Q3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaProgramms" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaProgramms" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../My Projects/Ecommerce" beforeDir="false" afterPath="$PROJECT_DIR$/../../My Projects/Ecommerce" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../My Projects/MERN/Ecommerce" beforeDir="false" afterPath="$PROJECT_DIR$/../../My Projects/MERN/Ecommerce" afterDir="false" />
@@ -15,6 +17,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -34,7 +43,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Ass7Q2">
+  <component name="RunManager" selected="Application.Ass7Q3">
     <configuration name="Ass7Q1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ass7Q1" />
       <module name="PracticeDSA" />
@@ -49,8 +58,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ass7Q3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ass7Q3" />
+      <module name="PracticeDSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ass7Q3" />
         <item itemvalue="Application.Ass7Q2" />
         <item itemvalue="Application.Ass7Q1" />
       </list>
