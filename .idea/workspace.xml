@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91a86ecd-2bc6-4973-a0b7-5d310b325f5c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ass12Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$" beforeDir="false" afterPath="$PROJECT_DIR$" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaProgramms" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaProgramms" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../My Projects/Ecommerce" beforeDir="false" afterPath="$PROJECT_DIR$/../../My Projects/Ecommerce" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../My Projects/MERN/Ecommerce" beforeDir="false" afterPath="$PROJECT_DIR$/../../My Projects/MERN/Ecommerce" afterDir="false" />
@@ -22,12 +19,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
