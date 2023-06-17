@@ -5,6 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91a86ecd-2bc6-4973-a0b7-5d310b325f5c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Ass15Q1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ass15Q2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ass15Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ass15Q4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ass15Q5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ass15Q6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ass15Q7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ass15Q8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass12Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass12Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass12Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass12Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass12Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass12Q6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass12Q7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass12Q8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass13Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass13Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass13Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass13Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass13Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass13Q6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass13Q7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass13Q8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass14Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass14Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass14Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass14Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass14Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass14Q6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass14Q7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ass14Q8.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaProgramms" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaProgramms" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../My Projects/Ecommerce" beforeDir="false" afterPath="$PROJECT_DIR$/../../My Projects/Ecommerce" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../My Projects/MERN/Ecommerce" beforeDir="false" afterPath="$PROJECT_DIR$/../../My Projects/MERN/Ecommerce" afterDir="false" />
@@ -25,7 +58,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -42,37 +75,37 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LinkedList">
-    <configuration name="Ass11Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ass11Q4" />
+  <component name="RunManager" selected="Application.Ass15Q8">
+    <configuration name="Ass15Q4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ass15Q4" />
       <module name="PracticeDSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ass11Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ass11Q5" />
+    <configuration name="Ass15Q5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ass15Q5" />
       <module name="PracticeDSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ass11Q6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ass11Q6" />
+    <configuration name="Ass15Q6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ass15Q6" />
       <module name="PracticeDSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ass11Q8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ass11Q8" />
+    <configuration name="Ass15Q8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ass15Q8" />
       <module name="PracticeDSA" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="LinkedList" />
+    <configuration name="MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinStack" />
       <module name="PracticeDSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LinkedList" />
-        <item itemvalue="Application.Ass11Q8" />
-        <item itemvalue="Application.Ass11Q6" />
-        <item itemvalue="Application.Ass11Q5" />
-        <item itemvalue="Application.Ass11Q4" />
+        <item itemvalue="Application.Ass15Q8" />
+        <item itemvalue="Application.MinStack" />
+        <item itemvalue="Application.Ass15Q6" />
+        <item itemvalue="Application.Ass15Q5" />
+        <item itemvalue="Application.Ass15Q4" />
       </list>
     </recent_temporary>
   </component>
